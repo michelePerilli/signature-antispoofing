@@ -1,7 +1,7 @@
 <h1>Antispoofing per sistemi di verifica statica di firme</h1>
 
 
-<h4>Cartelle</h4>
+<h2>Cartelle</h2>
 
 'dataset': gdps300
 'dataset_test': 300 utenti, ognuno composto da 6 firme sintetiche
@@ -16,7 +16,7 @@ Le cartelle "pickles" contengono i risultati delle elaborazioni per evitare di e
 
 
 
-<h4>Codice sorgente</h4>
+<h2>Codice sorgente</h2>
 
 'feature_extraction_circle.py': si occupa della feature extraction salvando i risultati nelle cartelle csv
 'SVM.py': - avendo a disposizione i csv delle feature, crea le svm per ogni utente e ne fa l'ottimizzazione con il metodo 'fitting()'
@@ -25,7 +25,7 @@ Le cartelle "pickles" contengono i risultati delle elaborazioni per evitare di e
 
 
 
-<h4>Utilizzo</h4>
+<h3>Utilizzo</h3>
 
 Si inizia eseguendo la feature extraction sul dataset puro e sul dataset composto solo da firme sintetiche.
 Fatto cio' si avranno a disposizione tutti i csv necessari per poter passare la file SVM.py
