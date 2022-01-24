@@ -1,5 +1,6 @@
 <h1>Antispoofing per sistemi di verifica statica di firme</h1>
 
+Progetto di tesi per laurea in Informatica e Tecnologie per la Produzione del software. Utilizza una feature extraction circolare su delle firme per insegnare alla Support Vector Machine. Il dataset e' vuoto, non e' condivisibile per privacy dei proprietari delle firme utilizzate.
 
 <h2>Cartelle</h2>
 
