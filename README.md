@@ -26,7 +26,7 @@ Le cartelle "pickles" contengono i risultati delle elaborazioni per evitare di e
 
 
 
-<h3>Utilizzo</h3>
+<h2>Utilizzo</h2>
 
 Si inizia eseguendo la feature extraction sul dataset puro e sul dataset composto solo da firme sintetiche.
 Fatto cio' si avranno a disposizione tutti i csv necessari per poter passare la file SVM.py
