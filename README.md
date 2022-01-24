@@ -1,4 +1,4 @@
-<h1>Antispoofing per sistemi di verifica statica di firme<h1>
+<h1>Antispoofing per sistemi di verifica statica di firme</h1>
 ##### Cartelle #####
 
 'dataset': gdps300
